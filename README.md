@@ -21,7 +21,7 @@ path="*<i>Your full path to this script</i>*"
 reporter_path="*<i>Path to Reporter folder*"    
     </pre>
     <i>Give permission to launch:</i>
-    <pre>chmod +x ip.sh</pre>
+    <pre>chmod +x run.sh</pre>
     <i>Create file <b>ip.txt</b> with your targets.</i>
     <br>
     <br>
