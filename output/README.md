@@ -1,0 +1,1 @@
+This folder contains nrich json outputs.

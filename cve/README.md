@@ -1,0 +1,1 @@
+This folder contains parsed nrich json data.
